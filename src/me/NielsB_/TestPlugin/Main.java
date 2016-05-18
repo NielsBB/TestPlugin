@@ -18,7 +18,7 @@ public class Main extends JavaPlugin implements Listener {
         //onDisable
 
 
-        gg
+        ggg
     }
 
     @Override
