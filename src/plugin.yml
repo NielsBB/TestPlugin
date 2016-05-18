@@ -1,0 +1,7 @@
+name: TestPlugin
+version: 1.0
+main: me.NielsB_.TestPlugin.Main
+commands:
+      allahuakbar:
+               description: allahu
+               usage: </command>
